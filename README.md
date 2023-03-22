@@ -25,7 +25,9 @@ dlist.insert_front(600)
 dlist.insert_rear(200)
 
 dlist.display()
+
 dlist.display_reverse()
 
 dlist.delete_atend()
+
 dlist.delete_atfront()
