@@ -11,11 +11,17 @@ This module performs following operations:
 
 ### Example:
 dlist = DLinkedList()
+
 dlist.insert_emptylist(1)
+
 dlist.insert_rear(2)
+
 dlist.insert_rear(3)
+
 dlist.insert_front(500)
+
 dlist.insert_front(600)
+
 dlist.insert_rear(200)
 
 dlist.display()
